@@ -48,6 +48,9 @@ See the completed project here: [http://vuejs-cinema.vuejsdevelopers.com/](http:
     ```
     npm run start
     ```
+6. URL is http://localhost:3002/
+
+7. personal repo is: https://github.com/nfritz98/vuejs-cinema    
 
 Your site will be available at *localhost:[PORT]* where `PORT` is whatever value is set in your `.env` file.
 
