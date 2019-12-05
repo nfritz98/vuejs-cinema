@@ -48,11 +48,12 @@ See the completed project here: [http://vuejs-cinema.vuejsdevelopers.com/](http:
     ```
     npm run start
     ```
-6. URL is http://localhost:3002/
+    sass-version has to be updated to newer version (npm install node-sass@4.13)
+6. URL is http://localhost:3002/ (Port is set in `.env` file.)
 
 7. personal repo is: https://github.com/nfritz98/vuejs-cinema    
 
-Your site will be available at *localhost:[PORT]* where `PORT` is whatever value is set in your `.env` file.
+9. use node_modules/.bin/webpack XX to replace globally installes webpack-commands
 
 ## Sponsors
 
